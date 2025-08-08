@@ -15,3 +15,4 @@ This project analyzes Airbnb listings in Denver to uncover insights on pricing, 
 - Visualized insights to guide host strategy and guest engagement.
 
 ## 📁 Project Structure
+  Check the notebook/PDF in this repository for full analysis and visuals.
